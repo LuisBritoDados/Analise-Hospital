@@ -1,2 +1,2 @@
 # Visualização do relatório completo
-https://app.powerbi.com/view?r=eyJrIjoiNmI3OTJmNzAtNjVmNC00NDc3LWE4NGMtMTBjOGE0M2U4NDFmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmI3OTJmNzAtNjVmNC00NDc3LWE4NGMtMTBjOGE0M2U4NDFmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
